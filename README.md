@@ -79,11 +79,9 @@ Based in BC, Canada 🇨🇦 | Open to internships (2025) – Remote / Canada / 
 
 ### <img width="21" height="21" alt="studentsai_icon" src="https://github.com/user-attachments/assets/a96765dc-1c4c-43c7-a44d-a32b714bcb72" /> [Student AI Toolkit]() – AI for Student Productivity
 
-
-
 ### ✩.  [MovieRS](https://github.com/Oleksiy-Zhukov/MovieRS-Project) - Movies Recommendation System
 
-### <img width="21" height="21" alt="kaggle" src="https://github.com/user-attachments/assets/c1a8253e-da07-4440-b369-bea974ec351c" /> [Kaggle Competitions](https://github.com/Oleksiy-Zhukov/Kaggle-Competitions) - collection of Noteboos from various Kaggle Competitions I participated in
+### <img width="21" height="21" alt="kaggle" src="https://github.com/user-attachments/assets/c1a8253e-da07-4440-b369-bea974ec351c" /> [Kaggle Competitions](https://github.com/Oleksiy-Zhukov/Kaggle-Competitions) - A collection of notebooks from Kaggle competitions I’ve participated in.
 
 ### <img width="21" height="21" alt="kaggle" src="https://github.com/user-attachments/assets/c1a8253e-da07-4440-b369-bea974ec351c" /> [Kaggle Projects](https://github.com/Oleksiy-Zhukov/Kaggle-Projects) - collection of some of my first projects Data Science projects
 
