@@ -78,6 +78,8 @@ Based in BC, Canada 🇨🇦 | Open to internships (2025) – Remote / Canada / 
 ### <img width="21" height="21" alt="walletly_icon_refined" src="https://github.com/user-attachments/assets/5ec09817-4030-4c55-b88e-ca116c3094ca" /> [Walletly]() – AI-Powered Finance Tracker
 
 ### <img width="21" height="21" alt="studentsai_icon" src="https://github.com/user-attachments/assets/a96765dc-1c4c-43c7-a44d-a32b714bcb72" /> [Student AI Toolkit]() – AI for Student Productivity
+
+### ✩.  [MovieRS](https://github.com/Oleksiy-Zhukov/MovieRS-Project) - Movies Recommendation System
 ---
 
 ## ☞ Achievements
