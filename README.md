@@ -2,7 +2,7 @@
 
 3rd-Year Computer Science Student | Data Scientist + Full-Stack Dev | Launching AI tools | Open to Internships | Machine Learning Enthusiast
 
-Based in BC, Canada 🇨🇦 | Open to internships (2025) – Remote / Canada / US
+Based in BC, Canada 🇨🇦 | Open to internships (2025/2026) – Remote / Canada / US
 
 ---
 
