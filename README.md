@@ -4,18 +4,6 @@
 
 Based in BC, Canada 🇨🇦 | Open to internships (2025/2026) – Remote / Canada / US
 
----
-
-## ☞ About Me
-
--  I’m currently building [**Walletly**](https://github.com/Oleksiy-Zhukov/Walletly) – an AI-powered personal finance app with prediction & automation tools
--  Working on ML experiments and sharing projects like [**Student AI Toolkit**](https://github.com/Oleksiy-Zhukov/students-ai-toolkit) – an ongoing deployed AI productivity platform for students
--  Passionate about ML Ops, Model Deployment, and Full-Stack ML Applications
--  [Kaggle](https://www.kaggle.com/zhukovoleksiy) Notebook Master (Top 0.04%) with 15+ notebooks & thousands of views
--  Strong foundation in statistics, math,and real-world problem-solving 
-
----
-
 ## ☞ Tech Stack
 
 ### Languages:
@@ -70,31 +58,6 @@ Based in BC, Canada 🇨🇦 | Open to internships (2025/2026) – Remote / Cana
 - Model Deployment
 - Visualization
 - Full Stack Development
-
----
-
-## ☞ Featured Projects
-
-### <img width="21" height="21" alt="walletly_icon_refined" src="https://github.com/user-attachments/assets/5ec09817-4030-4c55-b88e-ca116c3094ca" /> [Walletly]() – AI-Powered Finance Tracker
-
-### <img width="21" height="21" alt="studentsai_icon" src="https://github.com/user-attachments/assets/a96765dc-1c4c-43c7-a44d-a32b714bcb72" /> [Student AI Toolkit]() – AI for Student Productivity
-
-### ✩.  [MovieRS](https://github.com/Oleksiy-Zhukov/MovieRS-Project) - Movies Recommendation System
-
-### <img width="21" height="21" alt="kaggle" src="https://github.com/user-attachments/assets/c1a8253e-da07-4440-b369-bea974ec351c" /> [Kaggle Competitions](https://github.com/Oleksiy-Zhukov/Kaggle-Competitions) - A collection of notebooks from Kaggle competitions I’ve participated in.
-
-### <img width="21" height="21" alt="kaggle" src="https://github.com/user-attachments/assets/c1a8253e-da07-4440-b369-bea974ec351c" /> [Kaggle Projects](https://github.com/Oleksiy-Zhukov/Kaggle-Projects) - collection of some of my first projects Data Science projects
-
----
-
-## ☞ Achievements
-
--  Kaggle Notebook Master – Top 75 worldwide
--  IBM Data Science Certificate (in progress, 70% complete)
--  TensorFlow Developer Certificate 
--  Olympiad-level math & physics awards (Ukraine)
-
----
 
 ## ☞ Connect with Me
 
